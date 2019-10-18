@@ -13,7 +13,7 @@ To run the app:
 
 #### Login page
 choose a user from the dropdown list
-![Alt text](./screenshots/login.png "login page")
+![Alt text](./screenshots/Login.png "login page")
 
 #### Unanswered questions view
 ![Alt text](./screenshots/unanswered.png)
